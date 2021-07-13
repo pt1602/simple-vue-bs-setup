@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "bootstrap": "^5.0.2",
+    "vue": "^3.1.4"
+  },
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-npm-dist": "^1.0.3",
+    "gulp-sass": "^5.0.0",
+    "sass": "^1.35.2"
+  }
+}
