@@ -7,7 +7,6 @@ gulp.task('copy:libs', function () {
             copyUnminified: false,
             replaceDefaultExcludes: true,
             excludes: [
-                '*.map',
                 'src/**/*',
                 'examples/**/*',
                 'example/**/*',
